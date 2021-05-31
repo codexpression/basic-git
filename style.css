@@ -4,3 +4,30 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Box Model */
+h1 {
+  background-color: #d6f0f8;
+  padding: 10px;
+  border: 2px dashed #6c9ebe;
+  border-radius: 10px;
+  margin: 10px;
+  color: #6c9ebe;
+}
+
+h4 {
+  background-color: #d9cff1;
+  padding: 10px;
+  border: 2px solid #635681;
+  border-radius: 5px;
+  margin: 10px;
+  color: #635681;
+}
+
+p {
+  background-color: #f3e7d1;
+  color: #be923f;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
